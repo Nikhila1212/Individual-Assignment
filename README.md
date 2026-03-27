@@ -1,7 +1,6 @@
 # Attention Mechanisms in Image Captioning
 ### *Teaching a Network to Look Before It Speaks*
 
-**MLNN Tutorial — University of Hertfordshire — 2025**
 
 ---
 
